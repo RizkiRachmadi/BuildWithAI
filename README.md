@@ -36,4 +36,5 @@ combination of 2 quotient:
 ## Additional Info:
 1. To make our model is more suitable to use in the community, we choose to integrate it with Streamlit to make the recommender engine is easier to access
 [![Streamlit.jpg](https://i.postimg.cc/x8cNTZnx/Streamlit.jpg)](https://postimg.cc/9wHQLJ4Z)
-2. We build another dashboard using JS, which could be accessed through this link : 
+2. We build another dashboard using JS, which could be accessed through this link : https://autisapp.projekbareng.com/
+[![Dashboard.jpg](https://i.postimg.cc/QxqH55dk/Dashboard.jpg)](https://postimg.cc/TppdvKmp)
